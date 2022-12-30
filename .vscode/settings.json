@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "list_swap.C": "cpp"
+        "list_swap.C": "cpp",
+        "new": "cpp"
     }
 }
